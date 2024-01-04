@@ -10,7 +10,8 @@ Skilled Flutter developer with a rich background encompassing 7 years of iOS app
 
 ### 1. Expense tracker app:
 [`📲 Git hub`](https://github.com/sarathkumarsankar/expense_tracker_flutter)
-![ezgif com-video-to-gif-converter](https://github.com/sarathkumarsankar/Flutter-Developer-Portfolio/assets/12977299/811814ab-18a3-42b1-8236-72251aa2d3e8)
+
+![expance_tracker](https://github.com/sarathkumarsankar/Flutter-Developer-Portfolio/assets/12977299/455f2d2d-5a9a-479a-9de1-aa85dd55c70e)
 
 The Expense Tracker App is a Flutter application that helps users track their expenses and manage their budget. It leverages Firebase for data storage.
 
