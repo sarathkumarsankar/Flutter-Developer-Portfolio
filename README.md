@@ -10,18 +10,18 @@ Skilled Flutter developer with a rich background encompassing 7 years of iOS app
 
 ### 1. Expense tracker app:
 [`📲 Git hub`](https://github.com/sarathkumarsankar/expense_tracker_flutter)
+![ezgif com-video-to-gif-converter](https://github.com/sarathkumarsankar/Flutter-Developer-Portfolio/assets/12977299/811814ab-18a3-42b1-8236-72251aa2d3e8)
 
 The Expense Tracker App is a Flutter application that helps users track their expenses and manage their budget. It leverages Firebase for data storage.
-
-https://github.com/sarathkumarsankar/expense_tracker_flutter/assets/12977299/d8c018d5-0bdb-4469-9ac6-810e3cb34926
 
 
 ### 2. Favorite Places App: 
 [`📲 Git hub`](https://github.com/sarathkumarsankar/favorite_places_flutter)
 
-The Favorite Places App is a Flutter application that allows users to save and manage their favorite places. Users can pick locations from the map, add images, and store them locally using SQLite. The app also includes features like geocoding to convert latitude and longitude to human-readable addresses.
+![ezgif com-video-to-gif-converter (1) (1)](https://github.com/sarathkumarsankar/Flutter-Developer-Portfolio/assets/12977299/77eb92e9-3b61-43a2-b9bd-89126aae8f8f)
 
-https://github.com/sarathkumarsankar/favorite_places_flutter/assets/12977299/0d998047-778f-4be2-80d8-b02d0c9c7f9f
+
+The Favorite Places App is a Flutter application that allows users to save and manage their favorite places. Users can pick locations from the map, add images, and store them locally using SQLite. The app also includes features like geocoding to convert latitude and longitude to human-readable addresses.
 
 ### 3. Shopping App:
 [`📲 Git hub`](https://github.com/sarathkumarsankar/shopping_app_flutter)
